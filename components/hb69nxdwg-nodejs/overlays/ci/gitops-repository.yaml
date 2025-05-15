@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: hb69nxdwg-nodejs-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/hb69nxdwg-nodejs-gitops
